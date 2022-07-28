@@ -1,9 +1,1 @@
-{
-  "ModelName": {
-    "fieldName": {
-      "<type>": {}
-      "hasMany": "Model",
-      "belongsTo": "Model"
-    }
-  }
-}
+{ "Kwh": { "int": { "min": 100, "max": 999 } } }
