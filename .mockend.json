@@ -1,19 +1,20 @@
 [
- {
- "storageIntervalCron": "",
- "updateIntervalCron": "",
- "unitTypeId": 167,
- "updateOnNewData": false,
- "description": "Temperatur inomhus",
- "expireTimeout": 0,
- "name": "Temperatur",
- "measurementSerieId": 242,
- "unitId": 0,
- "apiIdentifier": "61000002-mbus.dib.ext-temp.0.0.0.0"
- "deviceTypeId": "2",
- "calculationOrder": "0",
- "createdFromTemplateId": "5",
- "unitTypeId": 5,
- "priority": "1",
- }
+
+{
+"storageIntervalCron": "",
+"updateIntervalCron": "",
+"unitTypeId": 134,
+"updateOnNewData": false,
+"description": "Signalstyrka i dBm",
+"expireTimeout": 0,
+"name": "Signalstyrka",
+"measurementSerieId": 241,
+"unitId": 58,
+"apiIdentifier": "61000002-mbus.dib.rf-level.0.0.0.0"
+"deviceTypeId": "2",
+"calculationOrder": "0",
+"createdFromTemplateId": "9",
+"unitTypeId": 0,
+"priority": "1",
+}
 ]
