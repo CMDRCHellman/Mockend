@@ -8,7 +8,7 @@
  "expireTimeout": 0,
  "name": "Temperatur",
  "measurementSerieId": 242,
- "unitId":{ "int": { "min": 0, "max": 1000000 } } 
+ "unitId": 
  "apiIdentifier": "61000002-mbus.dib.ext-temp.0.0.0.0"
  "deviceTypeId": "2",
  "calculationOrder": "0",
